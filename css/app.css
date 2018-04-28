@@ -1,0 +1,18 @@
+.header {
+    border: solid ;
+    text-align: center;
+    border-width: 2px;
+    padding: 5px;
+    margin: 30px;
+    width: 50%;
+    margin-left: 20%;
+}
+#message{
+    border: solid ;
+    text-align: center;
+    border-width: 2px;
+    padding: 5px;
+    margin: 30px;
+    width: 50%;
+    margin-left: 20%;
+}
